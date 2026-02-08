@@ -1,10 +1,10 @@
-🛒 E-Commerce SQL Case Study
-📌 Project Overview
+##  E-Commerce SQL Case Study
+###  Project Overview
 
 This project analyzes an e-commerce dataset using SQL to understand user behavior, conversion funnel performance, revenue drivers, and business growth trends.
 The goal is to convert raw event-level data into clear, actionable business insights.
 
-🎯 Business Questions Answered
+##  Business Questions Answered
 
 How has website traffic grown over time?
 
@@ -26,7 +26,7 @@ How do monthly trends evolve across traffic, orders, and revenue?
 
 How does device type (desktop vs mobile) affect conversion?
 
-🧠 Key Insights
+##  Key Insights
 
 Website traffic and revenue show strong, consistent growth over time
 
@@ -42,7 +42,7 @@ Desktop users convert much better than mobile, indicating a mobile UX improvemen
 
 Refunds cause meaningful revenue leakage, concentrated in a few products
 
-🛠️ Tools & Skills Used
+##  Tools & Skills Used
 
 SQL (MySQL)
 
@@ -56,7 +56,7 @@ Time-based trend analysis
 
 Business interpretation of data
 
-📂 Dataset
+## Dataset
 
 Website sessions
 
@@ -72,7 +72,7 @@ Marketing channels (UTM source)
 
 Device type
 
-📈 Outcome
+## Outcome
 
 This project demonstrates the ability to:
 
