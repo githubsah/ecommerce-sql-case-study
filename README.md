@@ -1,5 +1,5 @@
-##🛒 E-Commerce SQL Case Study
-###📌 Project Overview
+🛒 E-Commerce SQL Case Study
+📌 Project Overview
 
 This project analyzes an e-commerce dataset using SQL to understand user behavior, conversion funnel performance, revenue drivers, and business growth trends.
 The goal is to convert raw event-level data into clear, actionable business insights.
