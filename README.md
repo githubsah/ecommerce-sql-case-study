@@ -1,85 +1,71 @@
-##  E-Commerce SQL Case Study
-###  Project Overview
+# 🛒 E-Commerce SQL Case Study
 
-This project analyzes an e-commerce dataset using SQL to understand user behavior, conversion funnel performance, revenue drivers, and business growth trends.
-The goal is to convert raw event-level data into clear, actionable business insights.
+## 📌 Project Overview
 
-##  Business Questions Answered
+This project analyzes an e-commerce dataset using **SQL** to understand **user behavior, funnel performance, revenue drivers, and business growth trends**.
 
-How has website traffic grown over time?
+The objective was to transform raw event-level data into **clear, actionable business insights** for decision-making.
 
-Which pages and landing pages drive the most engagement?
+---
 
-Where do users drop off in the purchase funnel?
+## ❓ Business Questions Answered
 
-How efficient is session → order conversion?
+* How has website traffic grown over time?
+* Which pages and landing pages drive the most engagement?
+* Where do users drop off in the purchase funnel?
+* How efficient is session → order conversion?
+* Which products generate the most revenue and profit?
+* How do new users vs repeat users behave?
+* Which marketing channels perform best?
+* What is the impact of refunds on revenue?
+* How do monthly trends evolve across traffic, orders, and revenue?
+* How does device type (**desktop vs mobile**) affect conversion?
 
-Which products generate the most revenue and profit?
+---
 
-How do new users vs repeat users behave?
+## 📈 Key Insights
 
-Which marketing channels perform best?
+* Website traffic and revenue showed strong, consistent growth over time
+* The largest funnel drop-off occurred between **product view → cart**
+* A flagship product contributed the majority of revenue and profit
+* Repeat users, though fewer in number, generated significantly higher revenue per user
+* **Google Search** emerged as the strongest revenue-driving marketing channel
+* Desktop users converted at a much higher rate than mobile users, highlighting a potential **mobile UX improvement opportunity**
+* Refunds created measurable revenue leakage concentrated in a few products
 
-What is the impact of refunds on revenue?
+---
 
-How do monthly trends evolve across traffic, orders, and revenue?
+## 🛠 Tools & Skills Used
 
-How does device type (desktop vs mobile) affect conversion?
+**SQL (MySQL)**
+**Concepts & Techniques:**
 
-##  Key Insights
+* Joins, Subqueries, Aggregations
+* CASE Statements
+* Funnel Analysis
+* Time-Based Trend Analysis
+* Business Interpretation of Data
 
-Website traffic and revenue show strong, consistent growth over time
+---
 
-The biggest funnel drop-off occurs between product view → cart
+## 🗂 Dataset Components
 
-A single flagship product drives most revenue and profit
+* Website Sessions
+* Website Pageviews
+* Orders & Order Items
+* Products
+* Refunds
+* Marketing Channels (UTM Source)
+* Device Type
 
-Repeat users, though fewer, generate significantly higher revenue per user
+---
 
-Google Search is the primary revenue-driving marketing channel
-
-Desktop users convert much better than mobile, indicating a mobile UX improvement opportunity
-
-Refunds cause meaningful revenue leakage, concentrated in a few products
-
-##  Tools & Skills Used
-
-SQL (MySQL)
-
-Joins, Subqueries, Aggregations
-
-CASE statements
-
-Funnel analysis
-
-Time-based trend analysis
-
-Business interpretation of data
-
-## Dataset
-
-Website sessions
-
-Pageviews
-
-Orders & order items
-
-Products
-
-Refunds
-
-Marketing channels (UTM source)
-
-Device type
-
-## Outcome
+## ✅ Outcome
 
 This project demonstrates the ability to:
 
-Translate business questions into SQL queries
-
-Analyze large relational datasets
-
-Identify growth opportunities and bottlenecks
-
-Communicate insights in a business-friendly way
+* Translate business questions into SQL queries
+* Analyze relational datasets using SQL
+* Identify business bottlenecks and growth opportunities
+* Communicate insights in a business-friendly way
+* Convert raw data into decision-ready insights
