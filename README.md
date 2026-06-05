@@ -2,9 +2,11 @@
 
 ## 📌 Project Overview
 
-This project analyzes an e-commerce dataset using **SQL** to understand **user behavior, funnel performance, revenue drivers, and business growth trends**.
+This project analyzes an e-commerce dataset using **SQL** to investigate **website traffic, conversion funnels, marketing channels, customer behavior, product profitability, and business growth trends**.
 
-The objective was to transform raw event-level data into **clear, actionable business insights** for decision-making.
+Using SQL joins, aggregations, subqueries, CASE statements, and time-series analysis, the objective was to transform raw event-level data into actionable business insights and identify key factors influencing revenue, conversions, and overall business performance.
+
+The analysis uncovered funnel leakage between product views and cart additions, evaluated product profitability and refund trends, assessed acquisition channel effectiveness, and compared desktop versus mobile user behavior to identify opportunities for business growth.
 
 ---
 
